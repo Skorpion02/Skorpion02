@@ -51,7 +51,16 @@ Soy un profesional multidisciplinario en TI con más de 3 años de experiencia e
 ### 📌 Proyectos destacados
 
 - 🧠 **Análisis de campaña de marketing bancario**  
-  Predicción de suscripción a depósitos a plazo con modelos de ML y EDA avanzado.odelado de clasificación.
+  Predicción de suscripción a depósitos a plazo con modelos de ML y EDA avanzado.  
+
+- 📊 **Análisis del comportamiento de usuarios en redes sociales** *(en progreso)*  
+  Limpieza y preprocesamiento de datos de usuarios.  
+  Ingeniería de características temporales a partir de fechas de registro.  
+  Conversión de variables categóricas a numéricas.  
+  EDA con visualizaciones personalizadas.  
+  Identificación de outliers en métricas de uso.  
+  Preparación para pruebas estadísticas y modelado de clasificación.
+
 
 ---
 
