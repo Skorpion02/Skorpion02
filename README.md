@@ -18,7 +18,7 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 - Web development with **JavaScript**, **React**, **Node.js**, **Laravel**, among others
 
 📍 Based in Madrid, Spain  
-🎓 Master's student in Artificial Intelligence and Data Science at **IMMUNE Technology Institute**  
+🎓 Master's student in Artificial Intelligence and Data Science at *IMMUNE Technology Institute*
 📊 Portfolio: https://portfoliocv02.netlify.app
 🌐 Connect with Me: [!inkedIn](linkedin.com/in/roberto-andrés-de-gouveia-de-andrade-830206208/)
 ---
