@@ -1,70 +1,76 @@
-<h1 align="center">¡Hola! 👋 Soy Roberto de Gouveia</h1>
-<h3 align="center">Programador y Analista de Datos | Apasionado por la tecnología y el aprendizaje continuo</h3>
+<h1 align="center">Hello! 👋 I'm Roberto de Gouveia</h1>
+<h3 align="center">Programmer and Data Analyst | Passionate about technology and continuous learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Analista+de+Datos;Desarrollador+Fullstack;Apasionado+por+la+IA+y+la+automatización;Siempre+aprendiendo+y+creando" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst;Fullstack+Developer;Passionate+about+AI+and+Automation;Always+learning+and+creating" />
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy un profesional multidisciplinario en TI con más de 3 años de experiencia en soporte técnico, automatización de procesos y análisis de datos. Me especializo en:
+I am a multidisciplinary IT professional with over 3 years of experience in technical support, process automation, and data analysis. I specialize in:
 
-- Desarrollo de soluciones con **Python**, **SQL**, **Power BI** y **Tableau**
-- Automatización de tareas con **scripts CMD, PowerShell y Python**
-- Visualización de datos y creación de dashboards interactivos
-- Implementación de sistemas como **pfSense**, **NAS**, y herramientas de red
-- Desarrollo web con **JavaScript**, **React**, **Node.js**, **Laravel**, entre otros
+- Developing solutions with **Python**, **SQL**, **Power BI**, and **Tableau**
+- Automating tasks with **CMD scripts, PowerShell, and Python**
+- Data visualization and creating interactive dashboards
+- Implementing systems like **pfSense**, **NAS**, and network tools
+- Web development with **JavaScript**, **React**, **Node.js**, **Laravel**, among others
 
-📍 Actualmente en Madrid, España  
-🎓 Estudiante de Máster en Inteligencia Artificial y Ciencia de Datos en **IMMUNE Technology Institute**  
-📊 Portafolio: [https://portfoliocv02.netlify.app](https://portfoliocv02.netlify.app)
+📍 Based in Madrid, Spain  
+🎓 Master's student in Artificial Intelligence and Data Science at **IMMUNE Technology Institute**  
+📊 Portfolio: https://portfoliocv02.netlify.app
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies and Tools
 
-**Lenguajes:**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-!C#
-!PHP
+**Languages:**  
+![Python](https://img.shields.io/b
+**Frameworks and Web:**  
+!React
+!Node.js
+!Laravel
+!Angular
 
-**Frameworks y Web:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=black?style=flat-square&logo=angular)
-
-**Bases de datos y análisis:**  
+**Databases and Analysis:**  
 !SQL
 !MongoDB
-![Power BI]
-![XGBoost]
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=thers:**  
 !Git
 !Linux
-![pfSense](https://img.shields.io/badge/-pfSense-black?style=flat-square&rc="https://github-readme-stats.vercel.app/api?username=Skorpion02&show_icons=true&theme=radical" />
+!pfSense
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skorpion02&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skorpion02&theme=radical" />
 </p>
 
 ---
 
-### 📌 Proyectos destacados
+### 📌 Featured Projects
 
-- 🧠 **Análisis de campaña de marketing bancario**  
-  Predicción de suscripción a depósitos a plazo con modelos de ML y EDA avanzado.  
+- 🧠 **Bank Marketing Campaign Analysis**  
+  Predicting subscription to term deposits with ML models and advanced EDA.  
+  [View on Kagle *(example link)*
 
-- 📊 **Análisis del comportamiento de usuarios en redes sociales** *(en progreso)*  
-  Limpieza y preprocesamiento de datos de usuarios.  
-  Ingeniería de características temporales a partir de fechas de registro.  
-  Conversión de variables categóricas a numéricas.  
-  EDA con visualizaciones personalizadas.  
-  Identificación de outliers en métricas de uso.  
-  Preparación para pruebas estadísticas y modelado de clasificación.
-
+- 📊 **User Behavior Analysis on Social Networks** *(in progress)*  
+  Data cleaning and preprocessing.  
+  Feature engineering from registration dates.  
+  Conversion of categorical variables to numerical.  
+  EDA with custom visualizations.  
+  Identification of outliers in usage metrics.  
+  Preparation for statistical tests and classification modeling.
 
 ---
 
-### 🌐 Conéctate conmigo
+### 🌐 Connect with Me
 
-![LinkedIn](https://www.linkedin.com/in/robertoandrés-de-gouveia-dee problemas, también crea oportunidades.”
+[!inkedIn  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&reates opportunities.”
+
 
