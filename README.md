@@ -20,13 +20,18 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 📍 Based in Madrid, Spain  
 🎓 Master's student in Artificial Intelligence and Data Science at **IMMUNE Technology Institute**  
 📊 Portfolio: https://portfoliocv02.netlify.app
-
+🌐 Connect with Me: [!inkedIn](linkedin.com/in/roberto-andrés-de-gouveia-de-andrade-830206208/)
 ---
 
 ### 🛠️ Technologies and Tools
 
 **Languages:**  
-![Python](https://img.shields.io/b
+!Python
+!JavaScript
+!Java
+!C#
+!PHP
+
 **Frameworks and Web:**  
 !React
 !Node.js
@@ -34,9 +39,16 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 !Angular
 
 **Databases and Analysis:**  
-!SQL
+!SQL Server
 !MongoDB
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=thers:**  
+!Power BI
+!Tableau
+
+**Machine Learning:**  
+!Scikit-learn
+!XGBoost
+
+**DevOps and Others:**  
 !Git
 !Linux
 !pfSense
@@ -56,7 +68,6 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 - 🧠 **Bank Marketing Campaign Analysis**  
   Predicting subscription to term deposits with ML models and advanced EDA.  
-  [View on Kagle *(example link)*
 
 - 📊 **User Behavior Analysis on Social Networks** *(in progress)*  
   Data cleaning and preprocessing.  
@@ -66,11 +77,5 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
   Identification of outliers in usage metrics.  
   Preparation for statistical tests and classification modeling.
 
----
-
-### 🌐 Connect with Me
-
-[!inkedIn  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&reates opportunities.”
 
 
