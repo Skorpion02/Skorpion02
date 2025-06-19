@@ -30,33 +30,46 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 ### 🛠️ Technologies and Tools
 
-**Languages:**  
-!Python
-!JavaScript
-!Java
-!C#
-!PHP
+## Languages
 
-**Frameworks and Web:**  
-!React
-!Node.js
-!Laravel
-!Angular
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Databases and Analysis:**  
-!SQL Server
-!MongoDB
-!Power BI
-!Tableau
+---
 
-**Machine Learning:**  
-!Scikit-learn
-!XGBoost
+## Frameworks and Web
 
-**DevOps and Others:**  
-!Git
-!Linux
-!pfSense
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+## Databases and Analysis
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-005FE4?style=for-the-badge&logo=xgboost&logoColor=white)
+
+---
+
+## DevOps and Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pfSense](https://img.shields.io/badge/pfSense-2196F3?style=for-the-badge&logo=pfsense&logoColor=white)
 
 ---
 
