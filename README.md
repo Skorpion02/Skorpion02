@@ -59,8 +59,13 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skorpion02&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skorpion02&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorpion02&layout=compact&theme=radical" />
+</p>
+
+
 
 ---
 
