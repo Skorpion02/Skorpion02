@@ -42,10 +42,15 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 ## Frameworks and Web
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3B4A8B?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 ---
 
@@ -62,6 +67,7 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-005FE4?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=black)
 
 ---
 
@@ -70,6 +76,8 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-2196F3?style=for-the-badge&logo=pfsense&logoColor=white)
+![Gdown](https://img.shields.io/badge/Gdown-FFB63A?style=for-the-badge&logo=python&logoColor=black)
+
 
 ---
 
