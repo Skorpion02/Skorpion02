@@ -91,22 +91,4 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorpion02&layout=compact&theme=radical" />
 </p>
 
-
-
 ---
-
-### 📌 Featured Projects
-
-- 🧠 **Bank Marketing Campaign Analysis**  
-  Predicting subscription to term deposits with ML models and advanced EDA.  
-
-- 📊 **User Behavior Analysis on Social Networks** *(in progress)*  
-  Data cleaning and preprocessing.  
-  Feature engineering from registration dates.  
-  Conversion of categorical variables to numerical.  
-  EDA with custom visualizations.  
-  Identification of outliers in usage metrics.  
-  Preparation for statistical tests and classification modeling.
-
-
-
