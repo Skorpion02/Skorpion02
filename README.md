@@ -2,8 +2,11 @@
 <h3 align="center">Programmer and Data Analyst | Passionate about technology and continuous learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst;Fullstack+Developer;Passionate+about+AI+and+Automation;Always+learning+and+creating" />
+  <a href="https://skorpion02.github.io/"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20Portfolio-E8BF96?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Skorpion02"><img src="https://komarev.com/ghpvc/?username=Skorpion02&label=Visitas&style=for-the-badge&color=52526c" alt="Profile Views" /></a>
 </p>
+
+![Banner 3D](https://raw.githubusercontent.com/Skorpion02/Skorpion02.github.io/main/assets/imgs/about/Banner_3D_final.png)
 
 ---
 
