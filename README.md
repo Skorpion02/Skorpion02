@@ -24,9 +24,7 @@ I am a multidisciplinary IT professional with over 3 years of experience in tech
 
 🎓 Master's student in Artificial Intelligence and Data Science at *IMMUNE Technology Institute*
 
-📊 Portfolio: [Portfolio Web](https://skorpion02.github.io/)
-
-🌐 Connect with Me: LinkedIn
+🌐 Connect with Me: [LinkedIn](https://linkedin.com/in/roberto-andrés-de-gouveia-de-andrade/) 
 
 
 ---
