@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Roberto de Gouveia</h1>
-<h3 align="center">Programmer and Data Analyst | Passionate about technology and continuous learning</h3>
+<h3 align="center">Programmer and Data Engineer | Passionate about technology and continuous learning</h3>
 
 <p align="center">
   <a href="https://skorpion02.github.io/"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20Portfolio-E8BF96?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
